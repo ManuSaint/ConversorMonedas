@@ -1,15 +1,11 @@
 # ConversorMonedas
 
-*[Título e imagen de portada](#Título-e-imagen-de-portada)
-
-*[Insignias](#insignias)
-
-*[Índice](#índice)
-
 *[Descripción del proyecto](#descripción-del-proyecto)
+<p align= "left">Creacion de un Conversor de Monedas en java, en el cua se pueda seleccionar una Moneda de un Pais determinado y volverla al valor de moneda nacional.</p>
 
 
 *[Estado del proyecto](#Estado-del-proyecto)
+<p align= "left"> Terminado. </p>
 
 *[Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
 
