@@ -20,11 +20,13 @@
 *[Acceso al proyecto](#acceso-proyecto)
 
 *[Tecnologías utilizadas](#tecnologías-utilizadas)
-
-*[Personas Contribuyentes](#personas-contribuyentes)
+Lenguaje de Programacion JAVA
 
 *[Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
+Manuel Andrades Mella
 
 * [Licencia](#licencia)
+  Codigo Abierto
 
 *[Conclusión](#conclusión)
+Muy buen Proyecto, ya que se aprende mucho mas al buscar formas de hacer las conversiones,y de mostrar los valores resultantes.
